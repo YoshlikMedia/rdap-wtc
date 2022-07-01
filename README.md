@@ -1,4 +1,4 @@
-<p><h1>Release in celebration of 20 years of Uzinfocom</h1></p>
+<p align="center"><h1 align="center">Release in celebration of 20 years of Uzinfocom</h1></p>
 
 ![Uzinfocom's 20s](./.github/assets/20.jpg)
 
