@@ -22,7 +22,7 @@ After rewriting our project on Rust, we decided to compare benchmarks and stats
 
 ## Features
 
-|                Deno                |                           Rust                           |
+|                WTC                 |                         INTEGRO                          |
 |:----------------------------------:|:--------------------------------------------------------:|
 | Interpreted (need to install deno) |       Natively Compiled (+ cross platform support)       |
 |          Single Threaded           |                      Multi Threaded                      |
