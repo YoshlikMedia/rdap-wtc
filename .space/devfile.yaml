@@ -1,0 +1,10 @@
+schemaVersion: 2.2.0
+metadata:
+  name: 'Deno Config'
+attributes:
+  space:
+    instanceType: regular
+    editor:
+      type: WebStorm
+      version: '2022.1'
+      updateChannel: Release

@@ -1,0 +1,2 @@
+-- Redacted for organization's Privacy!
+-- Your Get All query to fetch data from db
