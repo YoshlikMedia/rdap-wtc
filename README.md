@@ -4,7 +4,7 @@
 
 # CCTLD/WTC
 
-WHOIS server implemented with Deno/STD
+WHOIS server implemented with Deno/STD. [Click me to see differences between Deno and Rewritten Rust version](./COMPARISON.md)
 
 ## Getting Started
 
