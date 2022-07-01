@@ -10,9 +10,9 @@ WHOIS server implemented with Deno/STD. [Click me to see differences between Den
 
 Download links:
 
-SSH clone URL: ssh://git@git.jetbrains.space/uzinfocom/cctld/wtc.git
+SSH clone URL: ssh://\*\*\*\*\*\*\*\*\*\*\*\*\*\*//uzinfocom/cctld/wtc.git
 
-HTTPS clone URL: https://git.jetbrains.space/uzinfocom/cctld/wtc.git
+HTTPS clone URL: https://\*\*\*\*\*\*\*\*\*\*\*\*\*\*/uzinfocom/cctld/wtc.git
 
 These instructions will get you a copy of the project up and running on your
 local machine for development and testing purposes.
